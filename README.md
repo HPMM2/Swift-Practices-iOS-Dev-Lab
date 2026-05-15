@@ -34,7 +34,7 @@ A swipeable onboarding-style app with three pages displayed in a `TabView` with 
 
 ---
 
-### 🔹 03 — BioHM
+### 🔹 03 — App (BioHM)
 
 A personal presentation app with a bottom tab bar navigation. Features a home screen with profile photo and name, a scrollable biography section and a favorites page with hobbies, food and colors.
 
